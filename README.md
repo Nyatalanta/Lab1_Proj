@@ -29,3 +29,5 @@
 Вторая часть текста, который необходимо разделить
   
 ![alt text](pkdpfogk.png "Описание")
+  
+[Ссылка на второй MD-файл](https://github.com/Nyatalanta/Lab1_Proj/blob/main/ReadMe2.md "Подсказка")
