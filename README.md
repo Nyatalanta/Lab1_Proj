@@ -20,9 +20,6 @@
 
   #include <iostream>
   #include "Circle_.cpp"
-  
   using namespace std;
   int main()
-  {
-	  setlocale(LC_ALL, "");
-  }
+  { setlocale(LC_ALL, ""); }
