@@ -1,0 +1,5 @@
+﻿  Circle_.cpp
+C:\Users\user\source\repos\laba73\Circle_.cpp(6,2): error C2065: cout: необъявленный идентификатор
+C:\Users\user\source\repos\laba73\Circle_.cpp(6,216): error C2065: endl: необъявленный идентификатор
+C:\Users\user\source\repos\laba73\Circle_.cpp(7,2): error C2065: cin: необъявленный идентификатор
+C:\Users\user\source\repos\laba73\Circle_.cpp(8,2): error C2065: cout: необъявленный идентификатор
