@@ -18,11 +18,11 @@
 
 ### Пример блоков кода
 
-  #include <iostream>
-  #include "Circle_.cpp"
-  using namespace std;
-  int main()
-  { setlocale(LC_ALL, ""); }
+    #include <iostream>
+    #include "Circle_.cpp"
+    using namespace std;
+    int main()
+    { setlocale(LC_ALL, ""); }
 
 Первая часть текста, который необходимо разделить
 ***
